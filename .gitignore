@@ -1,0 +1,40 @@
+.DS_Store
+
+# Local editor and Xcode state
+.vscode/
+.idea/
+**/xcuserdata/
+**/*.xcuserdatad/
+**/*.xcuserstate
+**/*.xccheckout
+**/*.xcscmblueprint
+
+# Xcode and SwiftPM generated files
+DerivedData/
+**/.build/
+**/SourcePackages/
+**/xcshareddata/swiftpm/
+
+# CMake and build output
+build/
+cpp-engine/target/
+**/CMakeCache.txt
+**/CMakeFiles/
+**/cmake_install.cmake
+**/build.ninja
+**/compile_commands.json
+**/rules.ninja
+**/CTestTestfile.cmake
+**/Makefile
+**/*.dir/
+
+# Compiled artifacts
+**/*.o
+**/*.a
+**/*.so
+**/*.dylib
+**/*.dll
+**/*.exe
+
+# Generated copies of the C API library; the header and module map stay tracked
+TicTacToeUI/TicTacToeUI/libs/libtictactoe.a

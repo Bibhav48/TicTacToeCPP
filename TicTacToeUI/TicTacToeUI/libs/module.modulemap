@@ -1,0 +1,5 @@
+module TicTacToeEngine {
+    header "tictactoe_c_api.h"
+    link "tictactoe"
+    export *
+}
