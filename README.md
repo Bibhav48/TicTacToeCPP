@@ -1,5 +1,7 @@
 # TicTacToeCPP
 
+![App Screenshot](docs/screenshots/app-screenshot.png)
+
 Tic-Tac-Toe with:
 
 - C++ game engine (static library)
@@ -69,9 +71,6 @@ From project root:
    xcodebuild -project TicTacToeUI/TicTacToeUI.xcodeproj -scheme TicTacToeUI -configuration Debug -destination 'platform=macOS' build
    ```
 
-## Screenshot
-
-![App Screenshot](docs/screenshots/app-screenshot.png)
 
 ## Notes
 
