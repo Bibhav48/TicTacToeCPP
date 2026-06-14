@@ -1,4 +1,8 @@
-# TicTacToeCPP
+<div align="center">
+   
+  # TicTacToeCPP
+  
+</div>
 
 ![App Screenshot](docs/screenshots/app-screenshot.png)
 
